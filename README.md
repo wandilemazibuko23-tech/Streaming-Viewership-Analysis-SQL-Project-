@@ -1,4 +1,4 @@
-# 📊 Streaming Viewership Analysis (Bright-s-Tv)
+# 📊 Streaming Viewership Analysis (Brights-Tv)
 
 ## 🎯 Project Overview
 This project analyzes TV/streaming platform data to understand user viewing behaviour, content popularity, and engagement trends. The objective is to generate insights that can support better content strategy and user retention.
