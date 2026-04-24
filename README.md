@@ -1,68 +1,64 @@
-# 📊 Streaming TV Analytics Project (Bright-s-Tv)
+# 📊 Streaming Viewership Analysis (Bright-s-Tv)
 
 ## 🎯 Project Overview
-This project analyzes streaming/TV viewership data to understand user behaviour, content performance, and engagement patterns. The goal is to identify trends that can help improve content strategy and user retention for a streaming platform.
+This project analyzes TV/streaming platform data to understand user viewing behaviour, content popularity, and engagement trends. The objective is to generate insights that can support better content strategy and user retention.
 
 ---
 
-## 🛠 Tools & Technologies
-- SQL (Data extraction, cleaning, aggregation)
-- Google BigQuery / MySQL (depending on your setup)
-- Excel (basic validation & exploration)
+## 🛠 Tools Used
+- SQL (Data Cleaning, Joins, Aggregations)
+- BigQuery / MySQL (depending on your setup)
 
 ---
 
 ## 📁 Dataset Description
-The dataset contains user viewing records, including:
-- User IDs
-- Content titles
-- Watch timestamps
-- Viewing duration
-- Device/platform (if available)
+The dataset includes:
+- UserID  
+- Content watched  
+- Watch timestamps  
+- Viewing duration  
+- Subscription or device type (if available)
 
 ---
 
-## 🧹 Data Cleaning Process
-Before analysis, the data was cleaned by:
-- Removing duplicate records  
-- Handling missing values  
-- Standardizing date/time formats  
-- Filtering invalid or incomplete entries  
+## 🧹 Data Cleaning
+- Removed duplicate users  
+- Handled missing values  
+- Standardized time formats  
+- Converted timestamps to South African time  
 
 ---
 
 ## 📊 Analysis Performed
-The following analyses were conducted:
-- Most watched TV shows or content categories  
-- Peak viewing hours and days  
-- User engagement trends over time  
-- Frequency of repeat viewers  
-- Content performance comparison  
+- Peak viewing times  
+- Most watched content  
+- User activity patterns  
+- Viewing trends over time  
+- Engagement levels by user  
 
 ---
 
 ## 📈 Key Insights
-- Most users watch content during evening hours (6PM–10PM)  
-- Drama/Entertainment content has the highest engagement rates  
-- Weekend viewership is significantly higher than weekdays  
-- A small group of users accounts for a large percentage of total watch time  
+- Peak viewing occurs during evening hours (7PM–10PM)  
+- A small group of users contributes most of the watch time  
+- Certain genres dominate overall engagement  
+- Weekend activity is higher than weekdays  
 
 ---
 
-## 💡 Business Impact
-These insights can help streaming platforms:
-- Optimize content release schedules  
-- Improve recommendation systems  
-- Increase user engagement through targeted content strategies  
-- Reduce churn by understanding viewing behaviour patterns  
+## 💡 Business Recommendations
+- Release high-demand content during peak hours  
+- Personalize recommendations for high-value users  
+- Optimize marketing campaigns around peak engagement periods  
+- Invest more in high-performing genres  
 
 ---
 
 ## 🚀 Conclusion
-This project demonstrates how raw streaming data can be transformed into actionable business insights using SQL-based analysis. It highlights my ability to clean, analyze, and interpret data for business decision-making.
+This project demonstrates how SQL can be used to transform raw viewing data into actionable business insights. It reflects my ability to analyze user behaviour and support data-driven decision-making.
 
 ---
 
 ## 📫 Author
-Buhlebamangwe Mazibuko  
+Buhlebamangwe Mazibuko
 GitHub: https://github.com/wandilemazibuko23-tech
